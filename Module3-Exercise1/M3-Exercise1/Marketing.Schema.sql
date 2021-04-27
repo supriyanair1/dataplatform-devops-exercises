@@ -1,0 +1,2 @@
+Create Schema Marketing;
+GO
