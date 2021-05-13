@@ -1,2 +1,2 @@
-Create Schema Marketing;
+Create Schema Marketing1;
 GO

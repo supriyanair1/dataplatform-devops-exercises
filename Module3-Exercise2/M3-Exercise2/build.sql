@@ -11,4 +11,9 @@ GO
 GO
 
 --:r <filename>
+
+:r Marketing.schema.sql
+GO
+
+:r Marketing.EmailList.view.sql
 GO
